@@ -14,8 +14,6 @@ A *copse* is a grove of trees that grow together. **Copseon** is that idea as a 
 | **Hierarchy** | Workspace → Team (optional) → Project → Task → Sub-task |
 | **Views** | List, Board, Calendar, Timeline, plus Inbox and command palette |
 
-See [docs/PRODUCT.md](docs/PRODUCT.md) for brand rules, [docs/BRAND.md](docs/BRAND.md) for logo and color, and [docs/SRS.md](docs/SRS.md) for the requirements snapshot.
-
 ## API (current stub)
 
 ```bash
@@ -24,8 +22,3 @@ npm run dev
 ```
 
 Binds to `0.0.0.0:$PORT` (default `3000`).
-
-| Method | Path | |
-|---|---|---|
-| `GET` | `/` | `{ "name": "Copseon", "message": "Copseon API", "status": "ok" }` |
-| `GET` | `/health` | `{ "status": "healthy" }` |
