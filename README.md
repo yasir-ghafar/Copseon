@@ -10,8 +10,7 @@ A *copse* is a grove of trees that grow together. **Copseon** is that idea as a 
 
 | | |
 |---|---|
-| **Name** | Copseon (always the full word — never shorten to Copse) |
-| **Say** | KOP-see-on |
+| **Name** | Copseon |
 | **Hierarchy** | Workspace → Team (optional) → Project → Task → Sub-task |
 | **Views** | List, Board, Calendar, Timeline, plus Inbox and command palette |
 
